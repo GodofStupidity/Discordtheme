@@ -13,7 +13,7 @@ images:
 - name: {tsutski} Preview - {Image Name}
   image: https://imgur.com/4kRZfrn # Direct image link should only be used here. Imgur isn't required but if it isn't used then further inspection will happen
 status:
-auto:
+auto:true
 featured: 
 style: dark
 tags: []
