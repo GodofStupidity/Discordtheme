@@ -1,1 +1,23 @@
-# Discordtheme
+---
+title: {tsutski}
+author: {god-of-stupidity}
+description: tsutski-the-violinist
+download: https://github.com/GodofStupidity/Discordtheme
+github: https://github.com/GodofStupidity/
+support:
+demo: https://raw.githack.com
+thumbnail: https://imgur.com/4kRZfrn
+images:
+- name: {tsutski} Preview
+  image: https://imgur.com/4kRZfrn # Direct image link should only be used here. Imgur isn't required but if it isn't used then further inspection will happen
+- name: {tsutski} Preview - {Image Name}
+  image: https://imgur.com/4kRZfrn # Direct image link should only be used here. Imgur isn't required but if it isn't used then further inspection will happen
+status:
+auto:
+featured: 
+style: dark
+tags: []
+ghcommentid: # DON'T CHANGE
+layout: product # DON'T CHANGE
+---
+# A full description of your theme. All Markdown is allowed.
